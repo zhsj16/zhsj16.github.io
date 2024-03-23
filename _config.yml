@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: guai-test
+title: 一个wěi小的blog site
 email: zhsj16@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   日中则移，月满则亏。
