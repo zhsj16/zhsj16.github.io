@@ -1,3 +1,7 @@
+[Garmin戳这里](https://connect.garmin.com/modern/profile/d4f5acc4-f163-48c5-9502-ea8b0aa2aa2e)
+
+[Strava戳这里](https://www.strava.com/athletes/119783493)
+
 # 来给宁list一些不中的facts：
 
  #中签能死#
